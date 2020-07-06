@@ -24,6 +24,7 @@
     }
   ],
   "main": "./lib/passport-slack",
+  "types": "./lib/passport-slack/index.d.ts",
   "dependencies": {
     "pkginfo": "0.2.x",
     "passport-oauth": "~0.1.1"
